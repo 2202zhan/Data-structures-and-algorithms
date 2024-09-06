@@ -19,7 +19,7 @@ class Stack:
 
 
 s = Stack()
-s.push(5)          
+s.push(55)          
 print(s.isEmpty())  
 
 s.push(4) 
